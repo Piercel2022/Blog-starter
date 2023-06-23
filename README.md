@@ -48,7 +48,7 @@ so there will be the need to read the data from the file system.
 <details>
   <summary>Language</summary>
   <ul>
-    <li><a https://www.typescriptlang.org/">Typescript</a></li>
+    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
   </ul>
 </details>
 
@@ -62,7 +62,7 @@ so there will be the need to read the data from the file system.
 <details>
 <summary>MD</summary>
   <ul>
-    <li><a https://daringfireball.net/projects/markdown/">MarkDown</a></li>
+    <li><a href="https://daringfireball.net/projects/markdown/">MarkDown</a></li>
   </ul>
 </details>
 
