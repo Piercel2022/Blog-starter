@@ -76,7 +76,14 @@ so there will be the need to read the data from the file system.
 - **[key_feature_2]**
 - **[key_feature_3]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+![Screenshot1](https://github.com/Piercel2022/Blog-starter/assets/98626003/a5a70ca4-603c-4bd4-996f-175e8ce1eb95)
+
+![Screenshot2](https://github.com/Piercel2022/Blog-starter/assets/98626003/91d5ef2b-0d23-4b9b-a43b-14d66a4e07f5)
+
+![Screenshot3](https://github.com/Piercel2022/Blog-starter/assets/98626003/4dc89028-e97f-4b07-abed-df1f711c7313)
+
+
+
 
 
 
