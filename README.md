@@ -47,8 +47,6 @@ so there will be the need to read the data from the file system.
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Language</summary>
   <ul>
