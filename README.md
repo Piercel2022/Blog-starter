@@ -86,7 +86,7 @@ so there will be the need to read the data from the file system.
 
 
 
-- [Live Demo Link](https://enchanting-mermaid-76fefa.netlify.app/)
+- [blog starter](https://enchanting-mermaid-76fefa.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
