@@ -36,8 +36,6 @@ REQUIRED SECTIONS:
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 [your_project_name] <a name="about-project"></a>
-
 
 **[Blog-starter]** is a A statically generated blog example using Next.js, Markdown, and TypeScript.
 The blog posts in the example will be stored as local markdown files in the application's directory (not fetched from an external data source), 
