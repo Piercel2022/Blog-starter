@@ -1,6 +1,6 @@
 ---
 title: 'The  Revolution Of User Interface Development'
-excerpt: 'In today fast-paced digital landscape, user interfaces play a crucial role in delivering seamless and engaging experiences. At the heart of this transformation stands React, a JavaScript library that has redefined how developers build user interfaces. In this article, I delve into the captivating story behind the creation of React, tracing its origins, exploring its core concepts, and examining its enduring impact on web development.'
+excerpt: 'In today fast-paced digital landscape, user interfaces play a crucial role in delivering seamless and engaging experiences. At the heart of this transformation stands React, a JavaScript library that has redefined how developers build user interfaces.'
 coverImage: '/assets/blog/preview/cover.jpg'
 date: '2023-06-24T22:35:07.322Z'
 author:
