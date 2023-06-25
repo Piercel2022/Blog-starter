@@ -1,5 +1,5 @@
 ---
-title: 'The  Revolution Of User Interface Development'
+title: 'How REACT Has Revolutionized The User Interface Development'
 excerpt: 'In today fast-paced digital landscape, user interfaces play a crucial role in delivering seamless and engaging experiences. At the heart of this transformation stands React, a JavaScript library that has redefined how developers build user interfaces.'
 coverImage: '/assets/blog/preview/cover.jpg'
 date: '2023-06-24T22:35:07.322Z'
