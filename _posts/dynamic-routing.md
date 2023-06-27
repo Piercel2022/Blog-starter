@@ -1,5 +1,5 @@
 ---
-title: 'What is React? An Introduction to the Popular JavaScript Library'
+title: 'A little introduction of react'
 excerpt: 'In the vast world of web development, React has emerged as one of the most popular and widely used JavaScript libraries. Created by Facebook, React has gained immense popularity due to its ability to build interactive user interfaces efficiently and effectively. Whether you are a seasoned developer or just starting your coding journey, understanding what React is and how it works can greatly enhance your web development skills'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'

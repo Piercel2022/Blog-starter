@@ -1,5 +1,5 @@
 ---
-title: 'A little more knowledge about NextJS'
+title: 'What is NextJS Do For You?'
 excerpt: 'Next.js is a powerful React framework that simplifies the development of server-rendered and statically generated web applications. It combines the benefits of server-side rendering with client-side interactivity, offering enhanced performance and SEO capabilities. With features like automatic code splitting, routing, API routes, and TypeScript support, Next.js provides a comprehensive toolkit for building modern and scalable web experiences.'
 coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2023-06-27T05:35:07.322Z'
