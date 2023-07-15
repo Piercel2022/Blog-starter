@@ -13,7 +13,7 @@ ogImage:
 
 The inception of React can be traced back to the challenges encountered by Facebook's engineering team in the early 2010s. As the social media giant's user base swelled, maintaining complex UIs across multiple platforms became increasingly cumbersome. The need for a solution to streamline UI development and enhance maintainability sparked the journey that would lead to React.
 
-At the helm of React's creation was Jordan Walke, a visionary software engineer at Facebook. Drawing inspiration from his experiments with XHP, a PHP extension facilitating reusable UI components, Walke sought to replicate the component-based approach in JavaScript. Thus, React was born, and its first deployments on Facebook's News Feed and Instagram proved its potential for transforming UI development.
+At the helm of React's creation was _Jordan Walke_, a visionary software engineer at Facebook. Drawing inspiration from his experiments with XHP, a PHP extension facilitating reusable UI components, _Walke_ sought to replicate the component-based approach in JavaScript. Thus, React was born, and its first deployments on Facebook's News Feed and Instagram proved its potential for transforming UI development.
 
 React introduced game-changing concepts that propelled it to the forefront of UI development. The virtual DOM emerged as a powerful tool, allowing React to efficiently update and render UI components by operating on an in-memory representation. This approach significantly improved performance and revolutionized the way developers thought about rendering.
 
