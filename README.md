@@ -105,7 +105,7 @@ so there will be the need to read the data from the file system.It is built usin
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [blog starter](https://enchanting-mermaid-76fefa.netlify.app/)
+- [blog starter](https://react-rails.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 - [Live Demo](https://react-rails.netlify.app/)
