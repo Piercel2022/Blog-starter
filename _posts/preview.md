@@ -1,19 +1,28 @@
 ---
-title: 'Preview Mode for Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+title: 'What is the origin of react?'
+excerpt: 'In today fast-paced digital landscape, user interfaces play a crucial role in delivering seamless and engaging experiences. At the heart of this transformation stands React, a JavaScript library that has redefined how developers build user interfaces.'
 coverImage: '/assets/blog/preview/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+date: '2023-06-24T22:35:07.322Z'
 author:
-  name: Joe Haddad
-  picture: '/assets/blog/authors/joe.jpeg'
+  name: Piercel Moussa
+  picture: '/assets/blog/authors/me.jpg'
 ogImage:
   url: '/assets/blog/preview/cover.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+The inception of React can be traced back to the challenges encountered by Facebook's engineering team in the early 2010s. As the social media giant's user base swelled, maintaining complex UIs across multiple platforms became increasingly cumbersome. The need for a solution to streamline UI development and enhance maintainability sparked the journey that would lead to React.
 
-## Lorem Ipsum
+At the helm of React's creation was _Jordan Walke_, a visionary software engineer at Facebook. Drawing inspiration from his experiments with XHP, a PHP extension facilitating reusable UI components, _Walke_ sought to replicate the component-based approach in JavaScript. Thus, React was born, and its first deployments on Facebook's News Feed and Instagram proved its potential for transforming UI development.
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+React introduced game-changing concepts that propelled it to the forefront of UI development. The virtual DOM emerged as a powerful tool, allowing React to efficiently update and render UI components by operating on an in-memory representation. This approach significantly improved performance and revolutionized the way developers thought about rendering.
+
+Furthermore, React embraced a one-way data flow, ensuring predictable code by facilitating unidirectional data changes from parent components to children. This approach mitigated unexpected side effects and made debugging and code maintenance more manageable. React's component-based architecture and the intuitive JSX syntax further enhanced its appeal, empowering developers to build reusable, declarative UI components.
+
+Recognizing the potential of React beyond Facebook, the company released it as an open-source project in 2013. This pivotal decision sparked an enthusiastic response from the development community. React quickly gained traction, with companies and developers worldwide adopting it for its performance benefits, component reusability, and the vibrant ecosystem that grew around it.
+
+React's journey did not stop at its initial release. Over the years, the React team and the open-source community have tirelessly contributed to its evolution. Notable updates and improvements have made React even more powerful, ensuring it stays at the forefront of modern web development. React Native, an extension of React for building native mobile applications, further expanded React's reach beyond the web.
+
+React's impact on web development cannot be overstated. Its component-based paradigm has influenced the industry, with many frameworks and libraries embracing similar approaches. React's performance optimizations and developer-friendly features have made it a go-to choice for building scalable and maintainable UIs. As the web continues to evolve, React's future looks bright, with potential advancements and integrations waiting to be discovered.
+
+The creation of React marked a pivotal moment in the evolution of user interface development. Through the visionary efforts of Jordan Walke and the collaborative spirit of the open-source community, React emerged as a game-changing library, redefining how we build UIs. Its virtual DOM, one-way data flow, and component-based architecture have laid the foundation for modern web development practices. As we navigate the ever-changing digital landscape, React stands as a testament to the power of innovation, collaboration, and a relentless pursuit of excellence.

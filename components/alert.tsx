@@ -2,26 +2,22 @@ import Container from './container'
 import cn from 'classnames'
 import { EXAMPLE_PATH } from '../lib/constants'
 
-type Props = {
-  preview?: boolean
-}
-
-const Alert = ({ preview }: Props) => {
+export default function Alert({ preview }) {
   return (
     <div
       className={cn('border-b', {
-        'bg-neutral-800 border-neutral-800 text-white': preview,
-        'bg-neutral-50 border-neutral-200': !preview,
+        'bg-accent-7 border-accent-7 text-white': preview,
+        'bg-accent-1 border-accent-2': !preview,
       })}
     >
       <Container>
-        <div className="py-2 text-center text-sm">
+        <div className="py-2 text-sm text-center">
           {preview ? (
             <>
               This page is a preview.{' '}
               <a
                 href="/api/exit-preview"
-                className="underline hover:text-teal-300 duration-200 transition-colors"
+                className="underline transition-colors duration-200 hover:text-cyan"
               >
                 Click here
               </a>{' '}
@@ -31,8 +27,8 @@ const Alert = ({ preview }: Props) => {
             <>
               The source code for this blog is{' '}
               <a
-                href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
-                className="underline hover:text-blue-600 duration-200 transition-colors"
+                href={`https://github.com/Piercel2022/${EXAMPLE_PATH}`}
+                className="underline transition-colors duration-200 hover:text-success"
               >
                 available on GitHub
               </a>
@@ -44,5 +40,3 @@ const Alert = ({ preview }: Props) => {
     </div>
   )
 }
-
-export default Alert
